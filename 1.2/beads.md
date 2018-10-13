@@ -1,3 +1,3 @@
-# brute force
+# 1. Brute force
 
-# DP method
+# 2. DP method
