@@ -1,7 +1,7 @@
-# Do a emulation
+# 1. Do a simulation
     some years are 365 days, some years are 366 days.
 
-# Zeller's congruence
+# 2. Zeller's congruence
 
     int k = year % 7; // The year of the century
     int j = (int)(year / 100.0); // the century

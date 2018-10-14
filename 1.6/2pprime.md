@@ -1,8 +1,7 @@
 # Palindrome
-
+    complete search: first search palindrome, then check if it is prime number.
 
 # Key points
-
 
 test palindrome vs prime: which one is easy? 
     bool is_palindrome(string &s): 
@@ -24,6 +23,7 @@ test palindrome vs prime: which one is easy?
         return true;
 
     DP method to build prime table.  If the number is very big, you need a lot of memory.  Is it worthwhile? Depends on situation!! 
+         sieve of Eratosthenes : https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 
     There's no super-fast way to determine if an arbitrary number is prime by hand.  You can save all the prime number before sqrt(n) to save some division.  But it is like DP, you know its disadvantage.
         1. Find the biggest perfect square k = floor(sqrt(n)).
