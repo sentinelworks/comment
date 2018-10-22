@@ -1,4 +1,4 @@
-# This is the comment for USACO traing exercise
+# This is the comment for USACO training exercise
 
 How to conquer a USACO problem:
 1. Understand the problem
