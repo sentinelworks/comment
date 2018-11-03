@@ -1,2 +1,5 @@
 *.cc
 *.cpp
+a.out
+*.in
+*.out
