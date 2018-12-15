@@ -42,3 +42,7 @@ while (i2 < n1+n2) {
     i2++;
 }
 
+## Dutch national flag problem
+Even though swap operation is smallest, we should use this algorithm as we learned in Competitive/31-Sorting-Algorithm
+
+
