@@ -1,8 +1,8 @@
 ## Search using Flood Fill
 
-DFS flood fill: stack could over flow
-BFS flood fill:
-union-find flood fill:
+    DFS flood fill: stack could over flow
+    BFS flood fill:
+    union-find flood fill:
 
 ## Graph represention
 For maze, island, castle, etc, your matrix representation already has hidden connectivity information, which is flood fill.  Every element represent one vetex.  Every neigbor (+x, -x) may means the connectivity.  
