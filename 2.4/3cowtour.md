@@ -21,3 +21,9 @@
     one way to do comparison:
     delta = 0.00000001;
     if (abs(a-b) < delta), they are equal?
+
+## enhancement
+
+    1. how to find the maximum perimeter ?
+    2. If there is unknown number of fields, but possibly more than 2 fields, for exmaple, 4 fields ?
+
