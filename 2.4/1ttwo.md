@@ -14,14 +14,15 @@ Definitely 10000 is enough as your field is 10*10.
 
 
 ## How to save the state:
-map or set (unordered or ordered)
 
-inline bool found(state)
-{
-    if (not in set) {
-        insert into set;
-        return false;
+    map or set (unordered or ordered)
+
+    inline bool found(state)
+    {
+        if (not in set) {
+            insert into set;
+            return false;
+        }
+        return true;
     }
-    return true;
-}
 
