@@ -19,9 +19,9 @@ How to represent connectivity in this graph
 
 ## use queue
 
-inline void enque(state) 
-{
-    push into queue;
-    set visited;
-}
+    inline void enque(state) 
+    {
+        push into queue;
+        set visited;
+    }
 
