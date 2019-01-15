@@ -26,3 +26,7 @@ Definitely 10000 is enough as your field is 10*10.
         return true;
     }
 
+## Extra work:
+
+    1. state dp[10][10][10][10], bool type (as visited)
+    2. use dfs to do it.

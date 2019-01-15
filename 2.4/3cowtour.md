@@ -27,3 +27,8 @@
     1. how to find the maximum perimeter ?
     2. If there is unknown number of fields, but possibly more than 2 fields, for exmaple, 4 fields ?
 
+## Extra work
+    1. more than two fields:
+        int f[150]; 0-f1-f2, etc.
+
+        use 0 as inifinity and 0 distance for floyd algorithm
